@@ -38,6 +38,12 @@
       max-width: 800px;
       margin: auto;
     }
+    section img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 1rem;
+      border-radius: 10px;
+    }
     footer {
       text-align: center;
       padding: 2rem;
@@ -51,6 +57,7 @@
     <h1>Awaken with Buddhism</h1>
     <p>Discover peace, mindfulness, and liberation through the path of the Buddha.</p>
     <p><strong>Created by Jack Lawson</strong></p>
+    <img src="https://images.unsplash.com/photo-1608032077018-587c1fdea9e0" alt="Buddha statue with peaceful background">
   </header>
 
   <nav>
@@ -69,6 +76,7 @@
       <li>The Eightfold Path</li>
       <li>Mindfulness and Meditation</li>
     </ul>
+    <img src="https://images.unsplash.com/photo-1630384061376-8b1e00573f16" alt="Buddhist monk meditating in nature">
   </section>
 
   <section id="benefits">
@@ -79,6 +87,7 @@
       <li>Non-theistic and open to interpretation</li>
       <li>Minimal rituals and no blind faith required</li>
     </ul>
+    <img src="https://images.unsplash.com/photo-1580136601191-35c0d4dc5d1a" alt="Person meditating at sunrise">
   </section>
 
   <section id="compare">
@@ -87,6 +96,7 @@
       While Hinduism has a rich spiritual heritage, its complex caste system and ritual obligations may feel limiting. Buddhism, by contrast, is more egalitarian and direct in its path to liberation.</p>
     <p><strong>Why Buddhism over Confucianism?</strong><br>
       Confucianism emphasizes social roles and duties, which can sometimes suppress individuality. Buddhism focuses on inner transformation and personal freedom beyond social constructs.</p>
+    <img src="https://images.unsplash.com/photo-1604537466573-6e259d59d76b" alt="Ancient temple and meditation symbolizing contrast">
   </section>
 
   <section id="interactive">
@@ -98,6 +108,7 @@
       <li>Am I ready to observe and grow instead of control and conquer?</li>
     </ul>
     <p>If you answered yes, the path of the Buddha may be calling you.</p>
+    <img src="https://images.unsplash.com/photo-1506126613408-eca07ce68773" alt="Path through peaceful forest">
   </section>
 
   <section id="reflection">
@@ -105,6 +116,7 @@
     <p>This website was created as a creative expression for RELI 1330 to present Buddhism to those unfamiliar with it. The process involved distilling complex philosophical ideas into accessible language and crafting a clear visual and textual narrative.</p>
     <p>The design emphasizes simplicity and serenity to reflect Buddhist values of mindfulness and minimalism. Themes such as the individual journey to liberation, critique of rigid systems, and inner transformation connect directly to course themes such as identity, belief, and ritual.</p>
     <p>By contrasting Buddhism with Hinduism and Confucianism, the site highlights Buddhism’s appeal to seekers of inner peace and autonomy, especially in a modern context where mental health and individual agency are crucial concerns.</p>
+    <img src="https://images.unsplash.com/photo-1548894735-e7ab6a855ca3" alt="Notebooks and meditation for reflection">
   </section>
 
   <footer>

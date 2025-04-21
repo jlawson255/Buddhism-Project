@@ -58,7 +58,7 @@
     <h1>Awaken with Buddhism</h1>
     <p>Discover peace, mindfulness, and liberation through the path of the Buddha.</p>
     <p><strong>Created by Jack Lawson</strong></p>
-    <img src="https://cdn.pixabay.com/photo/2022/09/25/17/34/buddha-7478541_1280.jpg" alt="Buddha statue with peaceful background">
+<img src="https://cdn.pixabay.com/photo/2018/12/13/14/25/buddha-statue-3869258_1280.jpg" alt="Buddha statue with peaceful background" style="max-width:100%; height:auto; border-radius:10px;">
   </header>
 
   <nav>

@@ -57,7 +57,7 @@
     <h1>Awaken with Buddhism</h1>
     <p>Discover peace, mindfulness, and liberation through the path of the Buddha.</p>
     <p><strong>Created by Jack Lawson</strong></p>
-    <img src="https://cdn.pixabay.com/photo/2022/09/25/17/34/buddha-7478541_1280.jpg" alt="Buddha statue with peaceful background">
+<img id="dimg_dakFaIv_OIvkwN4P0u_QQQ_321" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnxUgePr0xphdwNcUDBBvtviwF9TvGbsbQA&amp;s" class="YQ4gaf" height="183" style="object-position:50% 80%" width="275" alt="Phuket Big Buddha - Wikipedia" data-csiid="dakFaIv_OIvkwN4P0u_QQQ_119" data-atf="4" data-ilt="1745201529710" data-deferred="3" data-iml="1745201529710">
   </header>
 
   <nav>
